@@ -1,0 +1,2 @@
+I developed a Proportional-Derivative (PD) controller to regulate the pressure in a rocket fuel tank, ensuring it maintains a stable pressure during the launch sequence. For the second part, I implemented a Proportional-Integral-Derivative (PID) controller to manage 
+rocket thrust, optimizing the rocket’s velocity profile for both ascent and descent. These controllers were designed to handle precise adjustments and maintain system stability under varying conditions.
